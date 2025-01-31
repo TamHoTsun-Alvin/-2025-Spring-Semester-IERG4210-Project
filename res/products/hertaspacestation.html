@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="utf-8" />
+    <head>
+        <title>Interastral Peace shop(IPC Shop)</title>
+        <meta name="viewport" content="width=device-width" />
+        <link rel="stylesheet" href="../../style.css">
+    </head>
+    <body>
+        <div class="informerPS">
+            <div id="banner">
+                Welcome to IPC Shop! You are at: 
+                <a href="../../index.html" onclick="setcurcat('index')">Home</a> > 
+                <a href="../../index.html" onclick="setcurcat('Vehi')">Vehicles</a> > Herta's Space Station
+                <a href="checkout.html">
+                    <img class="cart" src="../../spc.jpg"></img>
+                </a>
+            </div>
+        </div>
+        <div class="wholedis">
+            <div class="catdis">
+                <a href="../../index.html" onclick="setcurcat('index')">Home</a>
+                <a href="../../index.html" onclick="setcurcat('Util')">Utilities</a>
+                <a href="../../index.html" onclick="setcurcat('Vehi')">Vehicles</a>
+            </div>
+            <div class="prodisplay">
+                <div class="shopping-list" id="shoppingList">
+                    <h3>Shopping List</h3>
+                    <div class="placeholder">Your Shopping List (Hover to View)</div>
+                    <ul id="cartItems"></ul>
+                    <div class="total-price">Total: $<span id="totalPrice">0.00</span></div>
+                </div>
+                <p><h4>Herta's Space Station</h4></p>
+                <p><img src="../pics/hss.webp"></p>
+                <p>$999999</p>
+                <p>This is herta's space station, i am not sure if it can move, but i am just gonna put it as vehicles anyway.</p>
+                <button onclick="addcart('Herta Space Station', 999999)">Add to Cart</button>
+            </div>
+        </div>
+        <script src="prod.js"></script>
+    </body>
+</html>
+

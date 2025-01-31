@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="utf-8" />
+    <head>
+        <title>Interastral Peace shop(IPC Shop)</title>
+        <meta name="viewport" content="width=device-width" />
+        <link rel="stylesheet" href="../../style.css">
+    </head>
+    <body>
+        <div class="informerPS">
+            <div id="banner">
+                Welcome to IPC Shop! You are at: 
+                <a href="../../index.html" onclick="setcurcat('index')">Home</a> > 
+                <a href="../../index.html" onclick="setcurcat('Util')">Utilities</a> > Lordly Trashcan
+                <a href="checkout.html">
+                    <img class="cart" src="../../spc.jpg"></img>
+                </a>
+            </div>
+        </div>
+        <div class="wholedis">
+            <div class="catdis">
+                <a href="../../index.html" onclick="setcurcat('index')">Home</a>
+                <a href="../../index.html" onclick="setcurcat('Util')">Utilities</a>
+                <a href="../../index.html" onclick="setcurcat('Vehi')">Vehicles</a>
+            </div>
+            <div class="prodisplay">
+                <div class="shopping-list" id="shoppingList">
+                    <h3>Shopping List</h3>
+                    <div class="placeholder">Your Shopping List (Hover to View)</div>
+                    <ul id="cartItems"></ul>
+                    <div class="total-price">Total: $<span id="totalPrice">0.00</span></div>
+                </div>
+                <p><h4>Lordly Trashcan</h4></p>
+                <p><img src="../pics/ltc.png"></p>
+                <p>$20</p>
+                <p>Lone, Valiant warrior that seek formidable warriors. PS: The can you bought will not talk, may kick you if you pass through it while it deems you worthy, 1% in receiving the golden version as the picture depicted when delivery is made.</p>
+                <button onclick="addcart('Lordly Trashcan', 20)">Add to Cart</button>
+            </div>
+        </div>
+        <script src="prod.js"></script>
+    </body>
+</html>
