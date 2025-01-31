@@ -4,7 +4,7 @@ const data = document.getElementById('dycontent');
 const datadisplay = {
     index: {
         banner: `<div id="banner">
-            Welcome to IPC Shop! You are at: <a href="index.html">Home</a>
+            Welcome to IPC Shop! You are at: About
             <a href="checkout.html">
                 <img class="cart" src="spc.jpg"></img>
             </a>
@@ -24,7 +24,7 @@ const datadisplay = {
     },
     Util: {
         banner: `<div id="banner">
-            Welcome to IPC Shop! You are at: <a href="index.html">Home</a> > Utilities
+            Welcome to IPC Shop! You are at: Utility
             <a href="checkout.html">
                 <img class="cart" src="spc.jpg"></img>
             </a>
@@ -70,7 +70,7 @@ const datadisplay = {
     },
     Vehi: {
         banner: `<div id="banner">
-            Welcome to IPC Shop! You are at: <a href="index.html">Home</a> > Vehicles
+            Welcome to IPC Shop! You are at: Vehicles
             <a href="checkout.html">
                 <img class="cart" src="spc.jpg"></img>
             </a>
@@ -130,11 +130,12 @@ document.addEventListener('DOMContentLoaded', () => { // only used when user is 
     renderlist(); // load spcart and render for init
 });
 
+
 document.querySelectorAll('.catdis a').forEach(link => { // dynamic content based on clicked category
     link.addEventListener('click', (e) => {
         e.preventDefault();
-
         const cat = e.target.getAttribute('cat');
+        
         if (datadisplay[cat]) {
             sessionStorage.setItem('curcat', cat); // set curcat as well just in case its wrong
             banner.innerHTML = datadisplay[cat].banner;
