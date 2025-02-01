@@ -78,8 +78,9 @@ li a:hover {
 
 .gdcontainer {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: start;
+    flex-wrap: wrap;
 }
 
 .goods {
