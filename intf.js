@@ -90,7 +90,7 @@ const datadisplay = {
                 </div>
                 <div class="goods">
                     <a href="res/products/tulongbaodao.html"><h2>TuLongBaoDao</h2></a>
-                    <a href="tulongbaodao.html"><img src="res/pics/1sec1knife999.png"></a>
+                    <a href="res/products/tulongbaodao.html"><img src="res/pics/1sec1knife999.png"></a>
                     <p>$1</p>
                     <button onclick="addcart('Tulongbaodao', 1)">Add to Cart</button>
                 </div>
