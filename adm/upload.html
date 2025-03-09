@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Upload</title>
+    <link rel="stylesheet" href="ops.css">
+</head>
+<body>
+    <h1>Usage: pid.jpg, append DB before uploading to ensure consistent PID</h1>
+    <form action="upload.php" method="post" enctype="multipart/form-data">
+        <input type="file" name="image" accept="image/jpeg" required>
+        <button type="submit">Upload</button>
+    </form>
+</body>
+</html>
