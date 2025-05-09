@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Order Successful</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Order Successful!</h1>
+        <p id="username"></p>
+        <p>Thank you for your purchase!</p>
+        <a href="/">Return to Shop</a>
+    </div>
+    <script>
+        const user = sessionStorage.getItem('uname') || 'Guest';
+        document.getElementById('username').textContent = `Thank you, ${user}!`;
+    </script>
+</body>
+</html>
