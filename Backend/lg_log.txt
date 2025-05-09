@@ -1,0 +1,238 @@
+[2025-03-22T16:49:53.628Z]: Login Server is up at:11680
+[2025-03-22T16:49:53.639Z]: Database Connected, Begin serving queries
+[2025-03-22T16:59:43.080Z]: Login Request Error:Error: SQLITE_ERROR: no such column: entity
+[2025-03-22T17:00:09.152Z]: Login Request Error:Error: SQLITE_ERROR: no such column: entity
+[2025-03-22T17:00:11.489Z]: Login Request Error:Error: SQLITE_ERROR: no such column: entity
+[2025-03-22T17:10:04.087Z]: Login Server is up at:11680
+[2025-03-22T17:10:04.093Z]: Database Connected, Begin serving queries
+[2025-03-22T17:10:31.300Z]: Port is already in use, increment in progress until success
+[2025-03-22T17:10:31.306Z]: Login Server is up at:11681
+[2025-03-22T17:10:31.310Z]: Database Connected, Begin serving queries
+[2025-03-22T17:16:52.526Z]: Login Server is up at:11680
+[2025-03-22T17:16:52.533Z]: Database Connected, Begin serving queries
+[2025-03-22T17:20:13.062Z]: Login Request Error:Error: SQLITE_ERROR: no such column: name
+[2025-03-22T17:21:16.166Z]: Login Request Error:Error: SQLITE_ERROR: no such column: name
+[2025-03-22T17:25:46.814Z]: Login Server is up at:11680
+[2025-03-22T17:25:46.822Z]: Database Connected, Begin serving queries
+[2025-03-22T17:27:38.190Z]: Login Sucessful w/ uncommon user-agent
+[2025-03-22T17:47:02.390Z]: Login Unsucessful w/ uncommon user-agent
+[2025-03-22T17:51:52.794Z]: Login Unsucessful w/ uncommon user-agent
+[2025-03-28T16:44:19.332Z]: Login Server is up at:11680
+[2025-03-28T16:44:19.341Z]: Database Connected, Begin serving queries
+[2025-03-30T07:22:21.651Z]: Login Server is up at:11680
+[2025-03-30T07:22:21.661Z]: Database Connected, Begin serving queries
+[2025-03-30T08:03:56.766Z]: Login Sucessful w/ uncommon user-agent
+[2025-03-30T08:08:40.536Z]: Login Sucessful w/ uncommon user-agent
+[2025-03-30T09:03:24.375Z]: Login Server is up at:11680
+[2025-03-30T09:03:24.384Z]: Database Connected, Begin serving queries
+[2025-03-30T09:04:15.936Z]: Login Server is up at:11680
+[2025-03-30T09:04:15.947Z]: Database Connected, Begin serving queries
+[2025-03-30T09:05:49.254Z]: Login Server is up at:11680
+[2025-03-30T09:05:49.263Z]: Database Connected, Begin serving queries
+[2025-03-30T09:06:05.691Z]: Login Server is up at:11680
+[2025-03-30T09:06:05.703Z]: Database Connected, Begin serving queries
+[2025-03-30T09:07:54.904Z]: Login Server is up at:11680
+[2025-03-30T09:07:54.914Z]: Database Connected, Begin serving queries
+[2025-03-30T09:07:57.637Z]: Login Unsucessful w/ uncommon user-agent
+[2025-03-30T09:10:06.115Z]: Login Server is up at:11680
+[2025-03-30T09:10:06.127Z]: Database Connected, Begin serving queries
+[2025-03-30T09:10:12.064Z]: Login Sucessful w/ uncommon user-agent
+[2025-03-30T09:13:58.255Z]: Login Server is up at:11680
+[2025-03-30T09:13:58.268Z]: Database Connected, Begin serving queries
+[2025-03-30T09:14:12.361Z]: Login Sucessful w/ uncommon user-agent
+[2025-03-30T09:18:41.040Z]: Login Server is up at:11680
+[2025-03-30T09:18:41.052Z]: Database Connected, Begin serving queries
+[2025-03-30T09:19:55.438Z]: Login Server is up at:11680
+[2025-03-30T09:19:55.449Z]: Database Connected, Begin serving queries
+[2025-03-30T09:19:58.746Z]: User login Sucessful, authorized as Entity:undefinedSN:1743326398736
+[2025-03-30T09:20:13.792Z]: User login Sucessful, authorized as Entity:undefinedSN:1743326413790
+[2025-03-30T09:20:53.450Z]: Login Server is up at:11680
+[2025-03-30T09:20:53.462Z]: Database Connected, Begin serving queries
+[2025-03-30T09:20:56.809Z]: User login Sucessful, authorized as Entity:NeonSparklexSN:1743326456799
+[2025-03-30T09:23:48.626Z]: User login Sucessful, authorized as Entity:NeonSparklexSN:1743326628623
+[2025-03-30T09:23:51.274Z]: User login Sucessful, authorized as Entity:NeonSparklexSN:1743326631272
+[2025-03-30T09:36:14.708Z]: User login Sucessful, authorized as Entity:NeonSparklexSN:1743327374705
+[2025-03-30T09:38:56.790Z]: Login Server is up at:11680
+[2025-03-30T09:38:56.802Z]: Database Connected, Begin serving queries
+[2025-03-30T09:43:10.020Z]: Login Server is up at:11680
+[2025-03-30T09:43:10.033Z]: Database Connected, Begin serving queries
+[2025-03-30T09:48:58.681Z]: Login Server is up at:11680
+[2025-03-30T09:48:58.693Z]: Database Connected, Begin serving queries
+[2025-03-30T10:16:57.488Z]: Login Server is up at:11680
+[2025-03-30T10:16:57.500Z]: Database Connected, Begin serving queries
+[2025-03-30T10:16:59.830Z]: User login Sucessful, authorized as Entity:NeonSparklexSN:1743329819820
+[2025-03-30T10:17:14.407Z]: Validation failed: SQLITE_ERROR: no such table: sessions
+[2025-03-30T10:41:03.234Z]: Login Server is up at:11680
+[2025-03-30T10:44:24.326Z]: Login Server is up at:11680
+[2025-03-30T10:44:24.337Z]: Database Connected, Begin serving queries
+[2025-03-30T10:45:04.604Z]: User login Sucessful, authorized as Entity:NeonSparklexSN:1743331504593
+[2025-03-30T10:45:26.096Z]: Validation failed: SQLITE_ERROR: no such table: sessions ohhhhhhh Fernado Alonso
+[2025-03-30T10:50:20.511Z]: Login Server is up at:11680
+[2025-03-30T10:50:20.524Z]: Database Connected, Begin serving queries
+[2025-03-30T10:50:41.549Z]: User login Sucessful, authorized as Entity:NeonSparklexSN:1743331841539
+[2025-03-30T10:50:51.669Z]: Validation failed: SQLITE_ERROR: no such table: sessions ohhhhhhh Fernado Alonso
+[2025-03-30T10:52:52.892Z]: Login Server is up at:11680
+[2025-03-30T10:52:52.903Z]: Database Connected, Begin serving queries
+[2025-03-30T10:53:18.693Z]: User login Sucessful, authorized as Entity:NeonSparklexSN:1743331998682
+[2025-03-30T10:53:27.205Z]: Validation failed: SQLITE_ERROR: no such table: sessions ohhhhhhh Fernado Alonso
+[2025-03-30T11:06:38.204Z]: Login Server is up at:11680
+[2025-03-30T11:06:38.215Z]: Database Connected, Begin serving queries
+[2025-03-30T11:06:56.671Z]: User login Sucessful, authorized as Entity:NeonSparklexSN:1743332816660
+[2025-03-30T11:07:04.912Z]: Validation failed: SQLITE_ERROR: no such table: sessions ohhhhhhh Fernado Alonso
+[2025-03-30T11:08:10.876Z]: Login Server is up at:11680
+[2025-03-30T11:08:10.888Z]: Database Connected, Begin serving queries
+[2025-03-30T11:08:24.115Z]: User login Sucessful, authorized as Entity:NeonSparklexSN:1743332904103
+[2025-03-30T11:08:30.220Z]: Validation failed: SQLITE_ERROR: no such table: sessions ohhhhhhh Fernado Alonso
+[2025-03-30T11:15:11.371Z]: Login Server is up at:11680
+[2025-03-30T11:15:11.385Z]: Database Connected, Begin serving queries
+[2025-03-30T11:15:29.371Z]: User login Sucessful, authorized as Entity:NeonSparklexSN:1743333329361
+[2025-03-30T11:15:37.257Z]: Validation failed: SQLITE_ERROR: no such table: sessions ohhhhhhh Fernado Alonso
+[2025-03-30T11:18:28.715Z]: User login Sucessful, authorized as Entity:NeonSparklexSN:1743333508713
+[2025-03-30T11:18:33.004Z]: Validation failed: SQLITE_ERROR: no such table: sessions ohhhhhhh Fernado Alonso
+[2025-03-30T11:20:55.461Z]: Login Server is up at:11680
+[2025-03-30T11:20:55.472Z]: Database Connected, Begin serving queries
+[2025-03-30T11:20:55.473Z]: sessions Database Connected, Begin serving queries
+[2025-03-30T11:21:09.979Z]: User login Unsucessful, no matching record
+[2025-03-30T11:21:11.946Z]: User login Unsucessful, no matching record
+[2025-03-30T11:21:20.783Z]: User login Sucessful, authorized as Entity:NeonSparklexSN:1743333680779
+[2025-03-30T11:21:29.121Z]: Validation passed for NeonSparklex dudududu Max Verstappen
+[2025-03-30T15:18:29.882Z]: Login Server is up at:11680
+[2025-03-30T15:18:29.892Z]: sessions Database Connected, Begin serving queries
+[2025-03-30T15:18:29.893Z]: Database Connected, Begin serving queries
+[2025-03-30T15:18:57.957Z]: User login Sucessful, authorized as Entity:NeonSparklexSN:1743347937952
+[2025-03-30T17:05:02.970Z]: Login Server is up at:11680
+[2025-03-30T17:05:02.979Z]: Database Connected, Begin serving queries
+[2025-03-30T17:05:02.980Z]: sessions Database Connected, Begin serving queries
+[2025-03-30T17:07:08.286Z]: DB Error: SQLITE_ERROR: no such column: password
+[2025-03-30T17:07:23.600Z]: DB Error: SQLITE_ERROR: no such column: password
+[2025-03-30T17:10:44.485Z]: Login Server is up at:11680
+[2025-03-30T17:10:44.496Z]: Database Connected, Begin serving queries
+[2025-03-30T17:10:44.498Z]: sessions Database Connected, Begin serving queries
+[2025-03-30T17:11:00.058Z]: Login Server is up at:11680
+[2025-03-30T17:11:00.070Z]: Database Connected, Begin serving queries
+[2025-03-30T17:11:00.070Z]: sessions Database Connected, Begin serving queries
+[2025-03-30T17:11:41.612Z]: Login Server is up at:11680
+[2025-03-30T17:11:41.620Z]: Database Connected, Begin serving queries
+[2025-03-30T17:11:41.622Z]: sessions Database Connected, Begin serving queries
+[2025-03-30T17:12:23.253Z]: Login Server is up at:11680
+[2025-03-30T17:12:23.264Z]: Database Connected, Begin serving queries
+[2025-03-30T17:12:23.266Z]: sessions Database Connected, Begin serving queries
+[2025-03-30T17:12:24.293Z]: Login Server is up at:11680
+[2025-03-30T17:12:24.302Z]: Database Connected, Begin serving queries
+[2025-03-30T17:12:24.303Z]: sessions Database Connected, Begin serving queries
+[2025-03-30T17:13:31.153Z]: Login Server is up at:11680
+[2025-03-30T17:13:31.161Z]: Database Connected, Begin serving queries
+[2025-03-30T17:13:31.163Z]: sessions Database Connected, Begin serving queries
+[2025-03-30T17:14:46.325Z]: Login Server is up at:11680
+[2025-03-30T17:14:46.335Z]: Database Connected, Begin serving queries
+[2025-03-30T17:14:46.337Z]: sessions Database Connected, Begin serving queries
+[2025-03-30T17:15:47.969Z]: Login Server is up at:11680
+[2025-03-30T17:15:47.981Z]: Database Connected, Begin serving queries
+[2025-03-30T17:15:47.982Z]: sessions Database Connected, Begin serving queries
+[2025-03-30T17:15:50.688Z]: Failed login for undefined
+[2025-03-30T17:15:55.228Z]: Failed login for undefined
+[2025-03-30T17:17:19.490Z]: Login Server is up at:11680
+[2025-03-30T17:17:19.500Z]: Database Connected, Begin serving queries
+[2025-03-30T17:17:19.501Z]: sessions Database Connected, Begin serving queries
+[2025-03-30T17:17:22.173Z]: Login attempt for undefined
+[2025-03-30T17:17:22.175Z]: Failed login for undefined
+[2025-03-30T17:17:38.846Z]: Login attempt for undefined
+[2025-03-30T17:17:38.850Z]: Failed login for undefined
+[2025-03-30T17:19:28.387Z]: Login Server is up at:11680
+[2025-03-30T17:19:28.394Z]: Database Connected, Begin serving queries
+[2025-03-30T17:19:28.395Z]: sessions Database Connected, Begin serving queries
+[2025-03-30T17:19:31.236Z]: Login attempt for NeonSparklex
+[2025-03-30T17:19:31.237Z]: Failed login for undefined
+[2025-03-30T17:22:04.625Z]: Login Server is up at:11680
+[2025-03-30T17:22:04.634Z]: Database Connected, Begin serving queries
+[2025-03-30T17:22:04.636Z]: sessions Database Connected, Begin serving queries
+[2025-03-30T17:22:14.426Z]: Login attempt for NeonSparklex
+[2025-03-30T17:22:14.427Z]: Failed login for NeonSparklex
+[2025-03-30T17:22:18.282Z]: Login attempt for NeonSparklex
+[2025-03-30T17:22:18.282Z]: Failed login for NeonSparklex
+[2025-04-15T04:54:53.434Z]: Login Server is up at:11680
+[2025-04-15T04:54:53.446Z]: Database Connected, Begin serving queries
+[2025-04-15T04:54:53.447Z]: sessions Database Connected, Begin serving queries
+[2025-04-15T04:54:58.454Z]: Login attempt for NeonSparklex
+[2025-04-15T04:54:58.456Z]: Failed login for NeonSparklex
+[2025-04-15T04:55:07.366Z]: Login attempt for a
+[2025-04-15T04:55:07.367Z]: Failed login for a
+[2025-04-15T04:55:36.138Z]: Login attempt for NeonSparklex
+[2025-04-15T04:55:36.141Z]: Failed login for NeonSparklex
+[2025-04-15T05:08:54.797Z]: Login Server is up at:11680
+[2025-04-15T05:08:54.808Z]: Database Connected, Begin serving queries
+[2025-04-15T05:08:54.809Z]: sessions Database Connected, Begin serving queries
+[2025-04-15T05:09:12.929Z]: Login attempt for NeonSparklex
+[2025-04-15T05:09:12.931Z]: Failed login for NeonSparklex
+[2025-04-15T05:09:12.931Z]: Error: data and hash arguments required
+[2025-04-15T05:11:34.027Z]: Login Server is up at:11680
+[2025-04-15T05:11:34.044Z]: Database Connected, Begin serving queries
+[2025-04-15T05:11:34.045Z]: sessions Database Connected, Begin serving queries
+[2025-04-15T05:11:38.750Z]: Login attempt for NeonSparklex
+[2025-04-15T05:11:38.753Z]: Failed login for NeonSparklex
+[2025-04-15T05:11:38.753Z]: fragpunkgood / undefined
+[2025-04-15T05:11:38.753Z]: Error: data and hash arguments required
+[2025-04-15T05:12:54.813Z]: Login Server is up at:11680
+[2025-04-15T05:12:54.823Z]: Database Connected, Begin serving queries
+[2025-04-15T05:12:54.823Z]: sessions Database Connected, Begin serving queries
+[2025-04-15T05:12:57.387Z]: Login attempt for NeonSparklex
+[2025-04-15T05:14:22.285Z]: Login Server is up at:11680
+[2025-04-15T05:14:22.297Z]: Database Connected, Begin serving queries
+[2025-04-15T05:14:22.297Z]: sessions Database Connected, Begin serving queries
+[2025-04-15T05:14:25.008Z]: Login attempt for NeonSparklex
+[2025-04-15T05:15:00.920Z]: Login Server is up at:11680
+[2025-04-15T05:15:00.930Z]: Database Connected, Begin serving queries
+[2025-04-15T05:15:00.932Z]: sessions Database Connected, Begin serving queries
+[2025-04-15T05:15:02.724Z]: Login attempt for NeonSparklex
+[2025-04-15T05:15:26.651Z]: Validation passed for NeonSparklex dudududu Max Verstappen
+[2025-04-15T05:17:01.847Z]: Login Server is up at:11680
+[2025-04-15T05:17:01.858Z]: Database Connected, Begin serving queries
+[2025-04-15T05:17:01.859Z]: sessions Database Connected, Begin serving queries
+[2025-04-15T05:17:20.440Z]: Validation passed for NeonSparklex dudududu Max Verstappen
+[2025-04-15T08:17:13.631Z]: Login Server is up at:11680
+[2025-04-15T08:17:13.642Z]: sessions Database Connected, Begin serving queries
+[2025-04-15T08:17:13.644Z]: Database Connected, Begin serving queries
+[2025-04-15T08:17:31.887Z]: Login attempt for NeonSparklex
+[2025-04-15T08:17:48.965Z]: Validation passed for NeonSparklex dudududu Max Verstappen
+[2025-04-15T11:24:54.646Z]: Login attempt for liubeigood
+[2025-04-27T14:28:58.786Z]: Login Server is up at:11680
+[2025-04-27T14:28:58.796Z]: sessions Database Connected, Begin serving queries
+[2025-04-27T14:28:58.796Z]: Database Connected, Begin serving queries
+[2025-04-28T10:35:03.182Z]: Login Server is up at:11680
+[2025-04-28T10:35:03.197Z]: Database Connected, Begin serving queries
+[2025-04-28T10:35:03.197Z]: sessions Database Connected, Begin serving queries
+[2025-04-28T10:47:20.716Z]: Login Server is up at:11680
+[2025-04-28T10:47:20.726Z]: sessions Database Connected, Begin serving queries
+[2025-04-28T10:47:20.726Z]: Database Connected, Begin serving queries
+[2025-04-30T11:52:33.381Z]: Login Server is up at:11680
+[2025-04-30T11:52:33.391Z]: Database Connected, Begin serving queries
+[2025-04-30T11:52:33.392Z]: sessions Database Connected, Begin serving queries
+[2025-04-30T11:52:50.795Z]: Login Server is up at:11680
+[2025-04-30T11:52:50.807Z]: Database Connected, Begin serving queries
+[2025-04-30T11:52:50.807Z]: sessions Database Connected, Begin serving queries
+[2025-04-30T11:52:52.154Z]: Login Server is up at:11680
+[2025-04-30T11:52:52.164Z]: Database Connected, Begin serving queries
+[2025-04-30T11:52:52.165Z]: sessions Database Connected, Begin serving queries
+[2025-05-01T17:21:24.261Z]: Login Server is up at:11680
+[2025-05-01T17:21:24.274Z]: sessions Database Connected, Begin serving queries
+[2025-05-01T17:21:24.275Z]: Database Connected, Begin serving queries
+[2025-05-01T17:22:18.992Z]: Login attempt for NeonSparklex
+[2025-05-01T17:22:20.586Z]: Login attempt for NeonSparklex
+[2025-05-02T14:56:16.089Z]: Login Server is up at:11680
+[2025-05-02T14:56:16.097Z]: Database Connected, Begin serving queries
+[2025-05-02T14:56:16.098Z]: sessions Database Connected, Begin serving queries
+[2025-05-02T14:57:34.627Z]: Login Server is up at:11680
+[2025-05-02T14:57:34.637Z]: Database Connected, Begin serving queries
+[2025-05-02T14:57:34.637Z]: sessions Database Connected, Begin serving queries
+[2025-05-02T14:57:55.389Z]: Login Server is up at:11680
+[2025-05-02T14:57:55.398Z]: Database Connected, Begin serving queries
+[2025-05-02T14:57:55.399Z]: sessions Database Connected, Begin serving queries
+[2025-05-03T13:59:43.207Z]: Login Server is up at:11680
+[2025-05-03T13:59:43.216Z]: Database Connected, Begin serving queries
+[2025-05-03T13:59:43.217Z]: sessions Database Connected, Begin serving queries
+[2025-05-03T13:59:45.729Z]: Login Server is up at:11680
+[2025-05-03T13:59:45.738Z]: Database Connected, Begin serving queries
+[2025-05-03T13:59:45.738Z]: sessions Database Connected, Begin serving queries
+[2025-05-03T13:59:46.772Z]: Login Server is up at:11680
+[2025-05-03T13:59:46.782Z]: Database Connected, Begin serving queries
+[2025-05-03T13:59:46.783Z]: sessions Database Connected, Begin serving queries
